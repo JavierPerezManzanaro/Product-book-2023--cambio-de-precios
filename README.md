@@ -22,7 +22,7 @@ Al ser un documento de texto es editable.
     Para precios de 3 cifras.
 
   PATRON_COMPUESTO = '([0-9]*\.[0-9]* €)'
-    Para precios de mas de tres cifras con punto qde separación de miles.
+    Para precios de mas de tres cifras con punto de separación de miles.
 
 Por otra parte, el porcentaje de incremento viene reflejado en esta variable:
 PORCENTAJE = 1.05
